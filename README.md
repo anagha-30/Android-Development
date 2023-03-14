@@ -7,4 +7,4 @@ App to Convert Indian Rupees to USD
 App to randomly Guess Games
 
 - Tables :
-App to get tables of numberd from 1-20
+App to get multiplication tables of numbers from 1-20
